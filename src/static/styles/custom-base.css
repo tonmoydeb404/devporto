@@ -1,0 +1,7 @@
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply bg-[#f2f2f2] text-gray-900 dark:bg-gray-900 dark:text-gray-50;
+}

@@ -1,0 +1,242 @@
+{
+  "profile": {
+    "name": "Tonmoy Deb",
+    "job": "frontend developer",
+    "bio": "a self motivated programmer, who is trying to explore the binary world",
+    "image": "https://avatars.githubusercontent.com/u/68368694?v=4",
+    "contacts": [
+      {
+        "id": "01",
+        "icon": "phone",
+        "text": "+880 19055 7417",
+        "link": "tel:+880190557417"
+      },
+      {
+        "id": "02",
+        "icon": "at",
+        "text": "tonmoydeb404@gmail.com",
+        "link": "mailto:tonmoydeb404@gmail.com"
+      }
+    ]
+  },
+  "hobbies": [
+    {
+      "id": "01",
+      "title": "Read Books",
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Ym9va3N8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": "02",
+      "title": "Watching Movies",
+      "image": "https://images.unsplash.com/photo-1615986201152-7686a4867f30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG1vdmllc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": "03",
+      "title": "Write Codes",
+      "image": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHdyaXRlJTIwY29kZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": "04",
+      "title": "Cooking",
+      "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y29va2luZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+    }
+  ],
+  "social": [
+    {
+      "id": "01",
+      "icon": "linkedin",
+      "text": "tonmoydeb",
+      "link": "https://linkedin.com/in/tonmoydeb"
+    },
+    {
+      "id": "02",
+      "icon": "facebook",
+      "text": "tonmoydeb",
+      "link": "https://fb.com/tonmoydeb"
+    },
+    {
+      "id": "03",
+      "icon": "github",
+      "text": "tonmoydeb404",
+      "link": "https://github.com/tonmoydeb404"
+    },
+    {
+      "id": "04",
+      "icon": "behance",
+      "text": "tonmoydeb",
+      "link": "https://behnace.com/tonmoydeb"
+    },
+    {
+      "id": "05",
+      "icon": "google",
+      "text": "tonmoy deb",
+      "link": "https://behnace.com/tonmoydeb"
+    }
+  ],
+  "skills": [
+    {
+      "id": "01",
+      "name": "CSS",
+      "value": "80"
+    },
+    {
+      "id": "02",
+      "name": "React JS",
+      "value": "60"
+    },
+    {
+      "id": "03",
+      "name": "React Redux",
+      "value": "30"
+    },
+    {
+      "id": "04",
+      "name": "Tailwindcss",
+      "value": "50"
+    },
+    {
+      "id": "05",
+      "name": "Bootstrap",
+      "value": "90"
+    },
+    {
+      "id": "06",
+      "name": "Material UI",
+      "value": "50"
+    }
+  ],
+  "tools": [
+    {
+      "id": "01",
+      "name": "Figma",
+      "value": "60"
+    },
+    {
+      "id": "02",
+      "name": "Photoshop",
+      "value": "50"
+    },
+    {
+      "id": "03",
+      "name": "Git",
+      "value": "80"
+    },
+    {
+      "id": "04",
+      "name": "VScode",
+      "value": "90"
+    }
+  ],
+  "projects": [
+    {
+      "id": "01",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTj3SVlsxUHqnh2iV22cjqDBBIFxNJvKrqw8tB4u0WLX9dnRTpvNMLhpgqxoZQY7TrsY&usqp=CAU",
+      "title": "Recipe Blog",
+      "category": "React",
+      "text": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+      "tags": ["html", "css", "react"],
+      "links": [
+        {
+          "id": "01",
+          "text": "Demo",
+          "style": "primary",
+          "path": "#"
+        },
+        {
+          "id": "02",
+          "text": "Code",
+          "style": "secondary-outline",
+          "path": "#"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTj3SVlsxUHqnh2iV22cjqDBBIFxNJvKrqw8tB4u0WLX9dnRTpvNMLhpgqxoZQY7TrsY&usqp=CAU",
+      "title": "Recipe Blog",
+      "category": "html",
+      "text": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+      "tags": ["html", "css", "react"],
+      "links": [
+        {
+          "id": "01",
+          "text": "Demo",
+          "style": "primary",
+          "path": "#"
+        },
+        {
+          "id": "02",
+          "text": "Code",
+          "style": "secondary-outline",
+          "path": "#"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTj3SVlsxUHqnh2iV22cjqDBBIFxNJvKrqw8tB4u0WLX9dnRTpvNMLhpgqxoZQY7TrsY&usqp=CAU",
+      "title": "Recipe Blog",
+      "category": "React",
+      "text": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+      "tags": ["html", "css", "react"],
+      "links": [
+        {
+          "id": "01",
+          "text": "Demo",
+          "style": "primary",
+          "path": "#"
+        },
+        {
+          "id": "02",
+          "text": "Code",
+          "style": "secondary-outline",
+          "path": "#"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTj3SVlsxUHqnh2iV22cjqDBBIFxNJvKrqw8tB4u0WLX9dnRTpvNMLhpgqxoZQY7TrsY&usqp=CAU",
+      "title": "Recipe Blog",
+      "category": "React",
+      "text": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+      "tags": ["html", "css", "react"],
+      "links": [
+        {
+          "id": "01",
+          "text": "Demo",
+          "style": "primary",
+          "path": "#"
+        },
+        {
+          "id": "02",
+          "text": "Code",
+          "style": "secondary-outline",
+          "path": "#"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTj3SVlsxUHqnh2iV22cjqDBBIFxNJvKrqw8tB4u0WLX9dnRTpvNMLhpgqxoZQY7TrsY&usqp=CAU",
+      "title": "Recipe Blog",
+      "category": "React",
+      "text": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+      "tags": ["html", "css", "react"],
+      "links": [
+        {
+          "id": "01",
+          "text": "Demo",
+          "style": "primary",
+          "path": "#"
+        },
+        {
+          "id": "02",
+          "text": "Code",
+          "style": "secondary-outline",
+          "path": "#"
+        }
+      ]
+    }
+  ]
+}

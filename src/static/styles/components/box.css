@@ -1,0 +1,21 @@
+.box {
+  @apply bg-white p-4 rounded shadow
+    dark:bg-gray-800;
+}
+
+.box_header {
+  @apply flex justify-between;
+}
+
+.box_header-title {
+  @apply font-semibold text-lg text-gray-900
+    dark:text-white;
+}
+
+.box_header-link {
+  @apply text-sm text-blue-500;
+}
+
+.box_body {
+  @apply mt-4;
+}

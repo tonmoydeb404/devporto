@@ -1,0 +1,48 @@
+.btn {
+  @apply py-1.5 px-3 bg-gray-800 text-gray-50 rounded inline-flex items-center gap-x-1 duration-300
+  hover:bg-gray-900 border border-transparent focus:outline-none;
+}
+
+.btn.btn-sm {
+  @apply px-2.5 py-1 rounded-sm;
+}
+
+.btn.btn-md {
+  @apply px-3 py-1.5 rounded;
+}
+
+/* btn colors */
+
+.btn.filled.btn-dark {
+  @apply bg-gray-800 text-gray-50
+  dark:bg-gray-900 
+  dark:hover:bg-gray-800 dark:focus:bg-gray-800
+  hover:bg-gray-900 focus:bg-gray-900;
+}
+
+.btn.filled.btn-blue {
+  @apply bg-blue-600 text-gray-50
+  hover:bg-blue-700 focus:bg-blue-700;
+}
+
+.btn.outlined.btn-dark {
+  @apply border-gray-800 bg-gray-900/5 text-gray-900
+  dark:border-gray-900 dark:text-gray-50 dark:bg-gray-800
+  dark:hover:bg-gray-900 dark:hover:text-gray-50
+  dark:focus:bg-gray-900 dark:focus:text-gray-50
+  hover:bg-gray-900 hover:text-gray-50 focus:text-gray-50 focus:bg-gray-900;
+}
+
+.btn.outlined.btn-blue {
+  @apply border-blue-600 bg-blue-600/5 text-blue-600
+  hover:bg-blue-700 hover:text-gray-50 focus:text-gray-50 focus:bg-blue-700;
+}
+
+/* btn items */
+.btn_icon {
+  @apply inline-block;
+}
+
+.btn_text {
+  @apply inline-block;
+}

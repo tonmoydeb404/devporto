@@ -1,0 +1,15 @@
+.sidebar {
+  @apply w-full md:w-5/12 lg:w-4/12 xl:w-3/12;
+}
+
+.mainbar {
+  @apply flex-1;
+}
+
+.hobbies_title {
+  @apply font-medium text-gray-800 dark:text-gray-50;
+}
+
+.hobby {
+  @apply mt-4 first:mt-0;
+}

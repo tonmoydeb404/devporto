@@ -1,0 +1,19 @@
+.progress {
+  @apply flex flex-col gap-y-3;
+}
+
+.progress_item {
+  @apply flex items-center gap-x-3;
+}
+
+.progress_item-name {
+  @apply inline-block w-[100px];
+}
+
+.progress_item-bar {
+  @apply flex-1 p-0 m-0 bg-gray-200 rounded-xl overflow-hidden dark:bg-gray-900;
+}
+
+.progress_item-value {
+  @apply py-1 block bg-blue-600;
+}

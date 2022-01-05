@@ -1,0 +1,31 @@
+.profile_image {
+  @apply w-full overflow-hidden rounded;
+}
+
+.profile_image img {
+  @apply w-full;
+}
+
+.profile_header {
+  @apply mt-4;
+}
+
+.profile_header-title {
+  @apply font-semibold text-2xl;
+}
+
+.profile_header-subtitle {
+  @apply font-medium text-base text-blue-600;
+}
+
+.profile_body {
+  @apply mt-2;
+}
+
+.profile_body-text {
+  @apply text-gray-700 dark:text-gray-300;
+}
+
+.profile_contacts {
+  @apply mt-4;
+}

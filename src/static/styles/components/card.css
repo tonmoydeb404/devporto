@@ -1,0 +1,44 @@
+.card {
+  @apply flex flex-col gap-y-5 lg:flex-row lg:gap-x-5;
+}
+
+.card_image {
+  @apply w-full lg:w-60;
+}
+
+.card_image img {
+  @apply w-full h-full rounded object-cover;
+}
+
+.card_body {
+  @apply flex-1;
+}
+
+/* card content */
+
+.card_content-title {
+  @apply text-xl font-medium;
+}
+
+.card_content-text {
+  @apply text-gray-700 mt-2 dark:text-gray-300;
+}
+
+/* card tags */
+
+.card_tags {
+  @apply flex flex-wrap gap-x-1.5 mb-1;
+}
+
+.card_tags-item {
+  @apply text-gray-600 font-normal text-sm dark:text-gray-300;
+}
+
+.card_tags-item::first-letter {
+  @apply text-gray-800 dark:text-gray-200 mr-0.5;
+}
+
+/* card links */
+.card_links {
+  @apply mt-4 flex gap-x-2 items-center;
+}
