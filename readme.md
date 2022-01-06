@@ -1,31 +1,7 @@
-# React Tailwind Boilerplate
+# Devporto - Dashboard Portfolio Template
 
-this is a react tailwind boilerplate with linting support. this boilerplate helps you to make a quick **react tailwind** project setup. click on **Use this template** button to create your next project with this template.
+portfolio that every developer needs to showcase there projects, skill & other stuffs. every year i like to update my portfolio. so this year i decided to make a portfolio template with dashboard style.
 
-### or use manually
+this year i make portfolio with react js. for easy to customizing i used [sanity.io](https://sanity.io) as a cms and also tailwindcss for styling.
 
-give _yarn_ or _npm install_ command to install all required packages.
-
-```javascript
-yarn; // npm install
-```
-
-use _lint_ script to install all updated linting packages.
-
-```javascript
-yarn lint // npm run lint
-```
-
-then give _yarn dev_ or _npm run dev_ to start the developer server.
-
-```javascript
-yarn dev // npm run dev
-```
-
-### things are used
-
-- Vite JS (frontend tool)
-- EsLint
-- Prettier
-- Postcss
-- Tailwindcss
+live: [tonmoydeb.com](https://tonmoydeb.com)
