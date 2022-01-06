@@ -12,10 +12,6 @@ const Home = () => (
     <div className="flex flex-col gap-y-5 md:flex-row md:gap-x-5">
         <Helmet>
             <title>Tonmoy Deb - Frontend Developer</title>
-            <meta
-                name="description"
-                content="a self-thought programmer from Bangladesh, who loves to explore the binary world."
-            />
         </Helmet>
         <SideBar>
             <ProfileCard className="mb-5" />
